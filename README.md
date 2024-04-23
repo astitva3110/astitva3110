@@ -30,8 +30,6 @@
 <p>
     <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=astitva3110&hide_progress=true&theme=dark" alt="astitva3110" />
 </p>
-<hr>
-<br>
 <p>
     <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=astitva3110&show_icons=true&locale=en&theme=dark" alt="astitva3110" />
 </p>
