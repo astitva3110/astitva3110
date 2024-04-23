@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Astitva Rai</h1>
 <h3 align="center"> Pursuing my Bachelor's degree in Computer Science and Engineering. I'm passionate about backend development, with a focus on Node.js. Always eager to learn and explore new technologies. Let's connect and collaborate on exciting projects! 🚀</h3>
+
+<hr>
 </div><h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
@@ -22,10 +24,13 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>
 </p>
 
+<hr>
+
 <h3 align="left">Stars</h3>
 <p>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=astitva3110&layout=compact&theme=dark" alt=astitva3110 />
 </p>
+<br>
 <hr>
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=astitva3110&show_icons=true&locale=en&theme=dark" alt="astitva3110" /></p>
 
