@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Astitva Rai</h1>
-<h3 align="center"> Pursuing my Bachelor's degree in Computer Science and Engineering. I'm passionate about backend development, with a focus on Node.js. Always eager to learn and explore new technologies. Let's connect and collaborate on exciting projects! 🚀</h3>
+<h3 align="center"> Pursuing my Bachelor's degree in Computer Science and Engineering. I'm passionate about backend development, with a focus on Node.js and also learning Django. Always eager to learn and explore new technologies. Let's connect and collaborate on exciting projects! 🚀</h3>
 
 <hr>
 </div><h3 align="left">Languages and Tools:</h3>
