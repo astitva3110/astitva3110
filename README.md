@@ -2,6 +2,7 @@
 <h3 align="center"> Pursuing my Bachelor's degree in Computer Science and Engineering. I'm passionate about backend development, with a focus on Node.js and also learning Django. Always eager to learn and explore new technologies. Let's connect and collaborate on exciting projects! 🚀</h3>
 
 <hr>
+[![astitva rai profile views](https://u8views.com/api/v1/github/profiles/113035236/views/day-week-month-total-count.svg)](https://u8views.com/github/astitva3110)
 </div><h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
