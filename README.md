@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Astitva Rai</h1>
-<h3 align="center"> Pursuing my Bachelor's degree in Computer Science and Engineering. I'm passionate about backend development, with a focus on Node.js and also learning Django. Always eager to learn and explore new technologies. Let's connect and collaborate on exciting projects! 🚀</h3>
+<h3 align="center">Completed my Bachelor's degree in Computer Science and Engineering (2025). Passionate about backend development with a focus on Node.js, and currently exploring Django and GenAI. Experienced in building secure authentication systems, customizable RAG pipelines, and agentic AI workflows. Always eager to learn, explore new technologies, and collaborate on exciting projects! 🚀</h3>
 
 <hr>
 
