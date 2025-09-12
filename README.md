@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Astitva Rai</h1>
-<h3 align="center">Completed my Bachelor's degree in Computer Science and Engineering (2025). Passionate about backend development with a focus on Node.js, and currently exploring Django and GenAI. Experienced in building secure authentication systems, customizable RAG pipelines, and agentic AI workflows. Always eager to learn, explore new technologies, and collaborate on exciting projects! 🚀</h3>
+<h3 align="center">B.Tech CSE graduate (2025) with strong backend development skills in Node.js and hands-on experience in Django
+and GenAI. Interned at Posterity, gaining industry experience in web applications and backend optimization.
+Passionate about problem-solving, cloud computing, GenAI and building impactful tech solutions! 🚀</h3>
 
 <hr>
 
