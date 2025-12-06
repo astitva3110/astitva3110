@@ -37,11 +37,6 @@
 
 <hr>
 
-<h3 align="left">GitHub Stats</h3>
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=astitva3110&layout=compact&theme=transparent" alt="Top Languages" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=astitva3110&show_icons=true&theme=transparent" alt="GitHub Stats" />
-</p>
 
 <hr>
 
