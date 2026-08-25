@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Astitva Rai</h1>
 <h3 align="center">
-  B.Tech CSE graduate (2025) with strong backend development skills in Node.js and hands-on experience in Django
-  and GenAI. Interned at Posterity Consulting Pvt, gaining industry experience in web applications and backend optimization.
-  Passionate about problem-solving, cloud computing, GenAI and building impactful tech solutions! 🚀
+  Backend Engineer with robust CS fundamentals (250+ LeetCode). Engineered automated workflows, real-time operational
+microservices, and an AI-powered chatbot featuring a systematic evaluation framework. Authored node-resily
+(npm), an open-source microservices resilience library (circuit breaker, retry, bulkhead patterns). AWS Certified Cloud
+Practitioner! 🚀
 </h3>
 
 <hr>
@@ -11,7 +12,7 @@
 
 <p align="center">
   <!-- Django -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" alt="Django" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg"alt="Django" width="60" height="60"/>
   &nbsp;&nbsp;&nbsp;
   
   <!-- Node.js -->
