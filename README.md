@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Astitva Rai</h1>
 <h3 align="center">
-  Backend Engineer with robust CS fundamentals (250+ LeetCode). Engineered automated workflows, real-time operational
+  Backend Engineer with robust CS fundamentals. Engineered automated workflows, real-time operational
 microservices, and an AI-powered chatbot featuring a systematic evaluation framework. Authored node-resily
 (npm), an open-source microservices resilience library (circuit breaker, retry, bulkhead patterns). AWS Certified Cloud
 Practitioner! 🚀
