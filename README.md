@@ -19,14 +19,6 @@ Practitioner! 🚀
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="60" height="60"/>
   &nbsp;&nbsp;&nbsp;
 
-  <!-- React -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="React" width="60" height="60"/>
-  &nbsp;&nbsp;&nbsp;
-
-  <!-- Docker -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="Docker" width="60" height="60"/>
-  &nbsp;&nbsp;&nbsp;
-
   <!-- LangChain -->
   <img src="https://raw.githubusercontent.com/astitva3110/astitva3110/main/idqP6WQff2_logos.jpeg" alt="LangChain" width="60" height="60"/>
   &nbsp;&nbsp;&nbsp;
